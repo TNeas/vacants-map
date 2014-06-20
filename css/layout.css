@@ -147,9 +147,12 @@ html,body {
 	  outline:none;
 	  }
 
-	  #logo{
-	  border:none;
-	  outline:none;
+	  #logo {
+ 		float:right;
+ 		width:100px;
+ 		height:70px;
+ 		margin:4px;
+ 		background:url(../images/bs-logo.png) top left no-repeat;
 	  }
 
 	  #logoImg{
