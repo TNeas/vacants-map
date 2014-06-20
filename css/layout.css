@@ -127,10 +127,10 @@
 	  }
 
 	  #logoArea{
-	  float:left;
-	  height:25px;
-	  width:25px;
-	  text-align:left;
+	  float:right;
+	  height:100px;
+	  width:100px;
+	  text-align:right;
 	  }
 
 	  #social{
