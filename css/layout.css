@@ -128,6 +128,7 @@
 	  #logoArea{
 	  float:right;
 	  text-align:right;
+	  z-index:100;
 	  }
 
 	  #social{
