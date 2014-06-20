@@ -127,10 +127,10 @@
 	  }
 
 	  #logoArea{
-	  float:right;
+	  float:left;
 	  height:25px;
 	  width:25px;
-	  text-align:right;
+	  text-align:left;
 	  }
 
 	  #social{
@@ -147,7 +147,7 @@
 
 	  #logo {
 	  float:left;
-	  width:150px;
+	  width:200px;
 	  height:100px;
 	  margin:4px;
 	  background:url(../images/bs-logo.png) top left no-repeat;
@@ -269,7 +269,7 @@
 	  position:absolute;
 	  z-index:99;
 	  width:100%;
-      top:40%;
+      	  top:40%;
 	  text-align:center;
 	  }
 
