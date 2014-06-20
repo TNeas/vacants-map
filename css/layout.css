@@ -128,11 +128,9 @@ html,body {
 
 	  #logoArea{
 	  float:right;
-	  height:100px;
-	  width:100px;
+	  height:25px;
+	  width:25px;
 	  text-align:right;
-	  z-index:100;
-	  display:inline;
 	  }
 
 	  #social{
