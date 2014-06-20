@@ -146,11 +146,11 @@
 	  }
 
 	  #logo {
- 		float:right;
- 		width:100px;
- 		height:70px;
- 		margin:4px;
- 		background:url(../images/bs-logo.png) top left no-repeat;
+	  float:right;
+	  width:150px;
+	  height:100px;
+	  margin:4px;
+	  background:url(../images/bs-logo.png) top left no-repeat;
 	  }
 
 	  #logoImg{
@@ -180,7 +180,6 @@
 	  }
 
 	  .legend{
-
 	  padding:25px;
 	  padding-top:0;
 	  padding-bottom:5px;
