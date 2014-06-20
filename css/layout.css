@@ -38,7 +38,7 @@
       #headerText{
 	  padding-top:20px;
 	  padding-left:25px;
-	  width:70%;
+	  width:60%;
 	  float:left;
 	  display:inline;
 	  }
@@ -147,10 +147,11 @@
 
 	  #logo {
 	  float:right;
-	  width:20%px;
+	  width:30%px;
 	  height:100px;
 	  margin:4px;
 	  background:url(../images/bs-logo.png) top left no-repeat;
+	  display:inline;
 	  }
 
 	  #logoImg{
