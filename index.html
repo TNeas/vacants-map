@@ -94,8 +94,10 @@ dojo.addOnLoad(init);
 <script>
 jQuery(document).ready(function(){
     console.log('hello');
-    jQuery('.esriSimpleSliderIncrementButton').click();
-});
+    setTimeout(function(){
+        jQuery('.esriSimpleSliderIncrementButton').click();
+    },2000);
+    });
 </script>
 
 <style type="text/css">
