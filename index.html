@@ -93,11 +93,9 @@ dojo.addOnLoad(init);
 <!-- End SiteCatalyst code version: H.1. -->
 <script>
 jQuery(document).ready(function(){
-    jQuery("#headerText").hide();
     setTimeout(function(){
-        //jQuery('.esriSimpleSliderIncrementButton').click();
-        jQuery("#loadingCon").hide();
-    },3000);
+        jQuery('.esriSimpleSliderIncrementButton').click();
+        },3000);
     });
 </script>
 
@@ -116,8 +114,8 @@ jQuery(document).ready(function(){
     <div id="banner" dojotype="dijit.layout.ContentPane" region="top">
         <a href="http://www.baltimoresun.com/"><div id="logo"></div></a>
         <div id="headerText">
-            <div id="title"><h1>Vacant Buildings in Baltimore</h1></div>
-            <div id="subtitle"><h3>What is the effect of vacants on the city&#63;</h3></div>
+            <div id="title"></div>
+            <div id="subtitle"></div>
         </div>
     </div>
     <div id="controls" dojotype="dijit.layout.ContentPane" region="center"> 
@@ -174,9 +172,10 @@ jQuery(document).ready(function(){
 <div id="loadingCon">
 <div id="loadingDialog">
     <div id="loadingHeader"></div>
-    <div id="loading"><span id="loadText"></span>
+        <div id="loading"><span id="loadText"></span>
         <br />
-        <img id="loadingImg" alt="" src="images/progressBar.gif">
+        <div><p>Still loading&#63; Try moving the map.</p></div>
+    <img id="loadingImg" alt="" src="images/progressBar.gif">
     </div>
 </div>
 </div>
