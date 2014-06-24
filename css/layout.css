@@ -80,6 +80,11 @@
 	  user-select: none;
 	  }
 
+	#addthis_sharing_toolbox{
+		float:right;
+		display:inline;
+	}
+	
 	  #mapTitles{
 	  background-color:#444;
 	  height:40px;
