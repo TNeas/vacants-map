@@ -83,9 +83,10 @@
 	.addthis_sharing_toolbox{
 		float:right;
 		display:inline;
-		margin-top:80px;
-		margin-right:150px;
+		margin-top:70px;
+		margin-right:170px;
 		opacity:0.8;
+		padding:5px;
 	}
 	
 	  #mapTitles{
