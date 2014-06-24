@@ -63,7 +63,7 @@
 
 	  #controls{
 	  position:absolute;
-	  width:100%;
+	  width:90%;
 	  height:15px;
 	  top:110px;
 	  background-color:#848484;
@@ -84,7 +84,10 @@
 		float:right;
 		display:inline;
 		margin-top:100px;
-		z-index:120;
+		width:10%;
+		height:15px;
+		background-color:#848484;
+		color:#000;
 	}
 	
 	  #mapTitles{
