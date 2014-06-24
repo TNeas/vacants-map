@@ -80,9 +80,10 @@
 	  user-select: none;
 	  }
 
-	#addthis_sharing_toolbox{
+	.addthis_sharing_toolbox{
 		float:right;
 		display:inline;
+		top:100px;
 	}
 	
 	  #mapTitles{
